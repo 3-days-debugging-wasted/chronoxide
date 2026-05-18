@@ -1,3 +1,7 @@
 /target
-#emacs autosaves
+#emacs backups
 *~
+# emacs autosaves
+\#*\#
+# lock files
+.\#*
